@@ -1,7 +1,3 @@
 ## Projet Wild
 
-# wild-project
-
-Comment installer ce projet ?
-
-Tout ce que nous avons à faire pour l'instant, c'est de le cloner.
+# Ce dépôt a été créé dans le cadre d’exercices réalisés durant une période d’apprentissage. Il sert à confirmer et documenter les progrès accomplis dans divers domaines de développement. Vous y trouverez des exemples pratiques, des solutions à des problèmes techniques et des notes explicatives liées à l’apprentissage.
